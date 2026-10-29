@@ -1,6 +1,10 @@
-# Trackemy
+<p align="center">
+  <img src="./assets/logo.png" alt="Trackemy logo" width="140" />
+</p>
 
-![Trackemy logo](./assets/logo.png)
+<h1 align="center">Trackemy</h1>
+
+<p align="center"><em>Your school records belong to you, forever.</em></p>
 
 > **Trackemy doesn't just manage your school, it preserves your child's entire educational journey, forever.**
 
@@ -15,7 +19,7 @@
 
 ## The One-Line Story
 
-Trackemy is an all-in-one school management SaaS that connects principals, teachers, students, and parents  **and preserves each student's educational history permanently**, even after they leave the school.
+Trackemy is an all-in-one school management SaaS that connects principals, teachers, students, and parents **and preserves each student's educational history permanently**, even after they leave the school.
 
 Most school software sells admin features to principals. Trackemy sells **emotion to parents and students** while still delivering the admin value principals need.
 
@@ -162,7 +166,7 @@ Our go-to-market starts where we have home-ground advantage:
 
 ### Why This Is Not Playing Small
 
-Every major Nepali company started with home-ground advantage. Nail Koshi first, and let word of mouth reach Kathmandu before we do, that's more powerful than starting in Kathmandu with no roots.
+Every major Nepali company started with home-ground advantage. Nail Koshi first, and let word of mouth reach Kathmandu before we do. that's more powerful than starting in Kathmandu with no roots.
 
 ---
 
