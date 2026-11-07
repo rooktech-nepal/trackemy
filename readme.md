@@ -55,7 +55,7 @@ These are Trackemy's differentiators, ranked by emotional and marketing power. A
 
 ### 1. Lifetime Student Record (Alumni Mode) - Emotion 10/10
 
-> *"Your school memories, preserved forever."*
+> _"Your school memories, preserved forever."_
 
 After Class 10 or after the school leaves Trackemy, the student retains full read-only access to their history, **free forever**.
 
@@ -66,7 +66,7 @@ After Class 10 or after the school leaves Trackemy, the student retains full rea
 
 ### 2. Digital Academic Passport - Emotion 9/10
 
-> *"Your child's history follows them, wherever they go."*
+> _"Your child's history follows them, wherever they go."_
 
 When a student transfers schools, their history travels with them automatically, securely, with parent consent.
 
@@ -77,7 +77,7 @@ When a student transfers schools, their history travels with them automatically,
 
 ### 3. Student Longitudinal Record - Emotion 8.5/10
 
-> *"Watch your child grow, year by year."*
+> _"Watch your child grow, year by year."_
 
 Every mark, attendance entry, and behavioral note from Class 1 to Class 10 in one permanent, portable profile.
 
@@ -106,8 +106,8 @@ Every mark, attendance entry, and behavioral note from Class 1 to Class 10 in on
 - **Mobile applications** (Android + iOS) - actively being built
 - **School Memory Vault** - school memories anchored to the academic timeline; 1 GB free per student, paid storage above
 - Fingerprint / biometric gate integration for arrival and departure notifications
-- **Student Academic Profile Sharing**, Class 10+ students 
-  can share verified academic profiles directly with colleges 
+- **Student Academic Profile Sharing**, Class 10+ students
+  can share verified academic profiles directly with colleges
   and universities for admission consideration
 
 ---
@@ -134,8 +134,7 @@ A more detailed technical overview is available on request under NDA. The codeba
 
 Trackemy is not a slide deck. It is a product with a real pipeline:
 
-
--   **School conversations beginning across Koshi Province**
+- **School conversations beginning across Koshi Province**
 - **Municipal education officer interest confirmed** by Shivasatakshi Municipality
 - **PABSON Jhapa district connection established** with the PABSON district president, who has expressed interest
 - Multiple private and community schools in Dharan, Biratnagar, Itahari, and Damak in early discussions
@@ -146,12 +145,12 @@ The go-to-market is Koshi-first, and the response in the region has been strong.
 
 ## Market & Strategy
 
-| Horizon | Target |
-|---|---|
-| Total addressable market | 30,000+ schools across Nepal |
-| Year 1 | 100–150 paying schools |
-| Year 2 | 500+ schools plus municipal (palika) partnerships |
-| Long term | Government MOU with the Ministry of Education, Science and Technology (MoEST) |
+| Horizon                  | Target                                                                        |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| Total addressable market | 30,000+ schools across Nepal                                                  |
+| Year 1                   | 100–150 paying schools                                                        |
+| Year 2                   | 500+ schools plus municipal (palika) partnerships                             |
+| Long term                | Government MOU with the Ministry of Education, Science and Technology (MoEST) |
 
 ### Koshi Province First
 
@@ -193,13 +192,13 @@ We do not compete head-to-head. We compete differently:
 
 ### Against global platforms
 
-| Platform | Lifetime / Alumni (free) | Cross-school Transfer Passport | Full Longitudinal Record |
-|---|---|---|---|
-| **Trackemy** | **Yes** | **Yes** | **Yes** |
-| PowerSchool (US) | No | No | District-only |
-| Alma (US) | No | No | Partial |
-| iSAMS (UK) | No | No | Enterprise-only |
-| Classplus (India) | No | No | Coaching-only |
+| Platform          | Lifetime / Alumni (free) | Cross-school Transfer Passport | Full Longitudinal Record |
+| ----------------- | ------------------------ | ------------------------------ | ------------------------ |
+| **Trackemy**      | **Yes**                  | **Yes**                        | **Yes**                  |
+| PowerSchool (US)  | No                       | No                             | District-only            |
+| Alma (US)         | No                       | No                             | Partial                  |
+| iSAMS (UK)        | No                       | No                             | Enterprise-only          |
+| Classplus (India) | No                       | No                             | Coaching-only            |
 
 The combination of **Lifetime Alumni Mode (free forever)** + **cross-school Digital Academic Passport** + **Longitudinal spine** is, to our knowledge, not offered by any platform globally, not just in Nepal.
 
@@ -211,7 +210,7 @@ The name **Trackemy** (track + academy) is unique, self-explanatory, and owns it
 
 ## Team
 
-A focused founding team of **two**,  technical depth and commercial depth, no overlap, no filler.
+A focused founding team of **two**, technical depth and commercial depth, no overlap, no filler.
 
 ### Yogendra Baskota, Tech Head, Engineering
 
@@ -233,7 +232,7 @@ Lawyer and sales professional. Responsible for:
 - Commercial contracts, data-handling policy, and regulatory compliance
 - Investor and grant-partner relations
 
-🔗 [LinkedIn](https://www.linkedin.com/in/suman-baskota)
+🔗 [LinkedIn](https://www.linkedin.com/in/suman-baskota-575411318)
 
 The company is bootstrapped and registered in Nepal as **Rook Technology Pvt. Ltd.**
 
@@ -241,12 +240,12 @@ The company is bootstrapped and registered in Nepal as **Rook Technology Pvt. Lt
 
 ## Roadmap
 
-| Phase | Focus |
-|---|---|
-| Current | Web platform in active development; mobile application in development |
+| Phase           | Focus                                                                         |
+| --------------- | ----------------------------------------------------------------------------- |
+| Current         | Web platform in active development; mobile application in development         |
 | Next 2 quarters | Web and Mobile (Android + iOS) launch; first paying schools in Koshi Province |
-| Following year | Multi-province expansion; palika-level partnerships |
-| Long term | National-scale student identity infrastructure; government MOU |
+| Following year  | Multi-province expansion; palika-level partnerships                           |
+| Long term       | National-scale student identity infrastructure; government MOU                |
 
 ---
 
@@ -262,11 +261,9 @@ We are **not accepting external contributions** at this time.
 
 ## Contact
 
-- **General and investor inquiries:** [info@trackemy.com](mailto:info@trackemy.com)
-- **Founder, Engineering:** [yogendra@trackemy.com](mailto:yogendra@trackemy.com)
-- **Founder, Commercial:** [suman@trackemy.com](mailto:suman@trackemy.com)
-- **Security disclosures:** [security@trackemy.com](mailto:security@trackemy.com)
-- **Website:** [trackemy.com](https://trackemy.com)
+- **General and investor inquiries:** [info@rooktech.com.np](mailto:info@rooktech.com.np)
+- **Security disclosures:** [info@rooktech.com.np](mailto:info@rooktech.com.np)
+- **Website:** [rooktech.com.np](https://rooktech.com.np)
 - **LinkedIn:** [linkedin.com/company/rook-technology](https://www.linkedin.com/company/rook-technology)
 
 ---
@@ -283,4 +280,4 @@ Trackemy handles minors' educational data and takes its obligations under Nepal'
 
 ---
 
-> *Your school records belong to you, forever.*
+> _Your school records belong to you, forever._
